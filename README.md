@@ -38,7 +38,7 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Credit
-background:Photo by Johannes Plenio: https://www.pexels.com/photo/blue-body-of-water-with-orange-thunder-1102915/ -->
+background:Photo by Johannes Plenio: https://www.pexels.com/photo/blue-body-of-water-with-orange-thunder-1102915/
 
 Acknowledgments
 The weather icons used in this project are provided by OpenWeatherMap.
